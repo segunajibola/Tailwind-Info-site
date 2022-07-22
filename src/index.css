@@ -43,8 +43,8 @@ main {
     color: white;
     background-image: url(./images/tailwind-css-logo.png);
     background-repeat: no-repeat;
-    background-position: 85%;
-    background-size: 500px;
+    background-position: 134%;
+    background-size: 40rem;
 }
 
 .main--title {
