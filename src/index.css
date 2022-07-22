@@ -39,11 +39,12 @@ nav {
 }
 
 main {
-    padding: 57px 27px;
+    padding: 57px 37px;
     color: white;
-    background-image: url(./images/react-icon-large.png);
+    background-image: url(./images/tailwind-css-logo.png);
     background-repeat: no-repeat;
-    background-position: right 75%;
+    background-position: 85%;
+    background-size: 500px;
 }
 
 .main--title {
