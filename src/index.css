@@ -67,3 +67,11 @@ main {
     font-size: 1.4rem;
     color: #61DAFB;
 }
+
+ul li {
+    font-size: 20px;
+}
+
+ul li a {
+    color: white;
+}
