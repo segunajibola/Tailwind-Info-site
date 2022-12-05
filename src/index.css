@@ -64,13 +64,13 @@ main {
 }
 
 .main--facts > li::marker {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     color: #61DAFB;
 }
 
-/* ul li {
+ul li {
     font-size: 20px;
-} */
+}
 
 ul li a {
     color: white;
